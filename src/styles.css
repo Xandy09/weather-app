@@ -52,8 +52,21 @@ li {
 .forecast {
   margin-top: 10px;
   text-align: center;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 20px;
+  max-width: 600px;
 }
 
 .weather-forecast-date {
   font-size: 12px;
+}
+
+.card-img-top {
+  width: 120px;
+  margin: auto;
+}
+
+.card-title {
+  font-size: 15px;
 }
